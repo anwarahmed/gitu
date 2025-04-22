@@ -7,6 +7,7 @@ Copy the contents of this repository to `~/.config/gitu`. The following files ca
 - `README.md`
 - `.git`
 - `.gitignore`
+- `default_config.toml`
 
 ## Homebrew
 ```shell
